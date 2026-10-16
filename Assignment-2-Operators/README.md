@@ -1,0 +1,1 @@
+Open index.html, answer prompts, and check F12 → Console. Concepts: prompt, Number, validation, arithmetic, assignment operators.

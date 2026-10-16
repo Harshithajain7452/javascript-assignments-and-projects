@@ -1,0 +1,1 @@
+Open index.html and view F12 → Console. Concepts: regular functions, arrow functions, default parameters, block scope.

@@ -1,0 +1,1 @@
+Open index.html, enter Monitor and 150 to reproduce the example, then check F12 → Console. Includes validation, categories, forEach, reduce, filter, map, and a default tax parameter.

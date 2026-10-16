@@ -1,0 +1,1 @@
+Open index.html; check F12 → Console. Concepts: var, let, const, typeof, arrays, console.log.

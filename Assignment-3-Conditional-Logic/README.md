@@ -1,0 +1,1 @@
+Open index.html and enter a score. Concepts: if/else, switch, ternary operator, validation.

@@ -1,0 +1,1 @@
+Open index.html and view F12 → Console. Concepts: for, while, do...while, break, continue.
